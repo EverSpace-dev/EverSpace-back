@@ -1,8 +1,8 @@
 ---
-name: Feature Template
-about: 기능 추가 이슈 템플릿
-title: '[feat] '
-labels: 'feat'
+name: Chore Template
+about: 기타 이슈 템플릿
+title: '[chore] '
+labels: 'chore'
 assignees: ''
 
 ---
